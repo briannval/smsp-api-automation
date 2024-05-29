@@ -1,10 +1,8 @@
-from datetime import datetime
-
 import config
 import utils
 
 """
-USAGE FOR SMSP ONLY
+USAGE FOR PT SMSP ONLY
 """
 
 

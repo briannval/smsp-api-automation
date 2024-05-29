@@ -32,3 +32,4 @@ def post_to_kpi_api(url, body, kpi, current_date):
         print(f"Success for {kpi} on {current_date}")
     else:
         print(f"Failed for {kpi} on {current_date}")
+    print(f"Response text: {response.text}")
